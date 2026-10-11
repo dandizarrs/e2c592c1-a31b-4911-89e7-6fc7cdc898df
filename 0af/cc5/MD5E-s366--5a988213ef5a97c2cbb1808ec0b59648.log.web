@@ -1,0 +1,12 @@
+1791739847s 1 https://dandiarchive.s3.amazonaws.com/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/extensions/templates/average/.zarray?versionId=hKfueKYU7Deju2lA3c2Zo1goX8jSHKO8
+1791739847s 1 https://api.dandiarchive.org/api/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/files?prefix=extensions%2Ftemplates%2Faverage%2F.zarray&download=true
+1791739849s 1 https://dandiarchive.s3.amazonaws.com/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/extensions/templates/percentile_1/.zarray?versionId=n8JA69soz548qxj.7_asENjs7AYWeU5f
+1791739849s 1 https://api.dandiarchive.org/api/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/files?prefix=extensions%2Ftemplates%2Fpercentile_1%2F.zarray&download=true
+1791739850s 1 https://dandiarchive.s3.amazonaws.com/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/extensions/templates/percentile_25/.zarray?versionId=PXHvSI92.soBEMrMP1I5Xdp_9MbayPML
+1791739850s 1 https://api.dandiarchive.org/api/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/files?prefix=extensions%2Ftemplates%2Fpercentile_25%2F.zarray&download=true
+1791739853s 1 https://dandiarchive.s3.amazonaws.com/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/extensions/templates/percentile_75/.zarray?versionId=BasNQJ5q_M28MSfJPuqGC1cK.jtZWhFp
+1791739853s 1 https://api.dandiarchive.org/api/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/files?prefix=extensions%2Ftemplates%2Fpercentile_75%2F.zarray&download=true
+1791739856s 1 https://dandiarchive.s3.amazonaws.com/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/extensions/templates/percentile_99/.zarray?versionId=HaKFay.ZN_I0t5sLHI3D.8fX1nuXaF.q
+1791739856s 1 https://api.dandiarchive.org/api/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/files?prefix=extensions%2Ftemplates%2Fpercentile_99%2F.zarray&download=true
+1791739860s 1 https://dandiarchive.s3.amazonaws.com/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/extensions/templates/std/.zarray?versionId=2C36hiZveS1vI_aisMOK6YbtIhweDttt
+1791739860s 1 https://api.dandiarchive.org/api/zarr/e2c592c1-a31b-4911-89e7-6fc7cdc898df/files?prefix=extensions%2Ftemplates%2Fstd%2F.zarray&download=true
